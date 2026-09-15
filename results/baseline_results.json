@@ -1,0 +1,12 @@
+{
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "test_samples": 2375,
+    "valid_predictions": 2277,
+    "invalid_predictions": 98,
+    "queue_accuracy": 0.3166,
+    "queue_macro_f1": 0.204,
+    "priority_accuracy": 0.3781,
+    "priority_macro_f1": 0.2375,
+    "joint_accuracy": 0.1524,
+    "json_validity": 0.9587
+}

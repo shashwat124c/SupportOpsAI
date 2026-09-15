@@ -1,0 +1,11 @@
+{
+    "test_samples": 2375,
+    "valid_predictions": 2375,
+    "invalid_predictions": 0,
+    "queue_accuracy": 0.3697,
+    "queue_macro_f1": 0.1941,
+    "priority_accuracy": 0.4754,
+    "priority_macro_f1": 0.3527,
+    "joint_accuracy": 0.2105,
+    "json_validity": 1.0
+}

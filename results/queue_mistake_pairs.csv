@@ -1,0 +1,32 @@
+true_queue,predicted_queue,count
+Product Support,Technical Support,417
+Customer Service,Technical Support,330
+IT Support,Technical Support,272
+Billing and Payments,Technical Support,99
+Returns and Exchanges,Technical Support,93
+Service Outages and Maintenance,Technical Support,62
+Sales and Pre-Sales,Technical Support,55
+Human Resources,Technical Support,38
+General Inquiry,Technical Support,31
+Customer Service,Product Support,11
+Returns and Exchanges,Product Support,10
+Billing and Payments,Customer Service,9
+IT Support,Customer Service,8
+Sales and Pre-Sales,Customer Service,8
+Returns and Exchanges,Customer Service,8
+Product Support,Customer Service,8
+Sales and Pre-Sales,Product Support,6
+Human Resources,Product Support,6
+Technical Support,Customer Service,4
+Technical Support,Product Support,3
+IT Support,Product Support,3
+Billing and Payments,Product Support,2
+General Inquiry,Customer Service,2
+Sales and Pre-Sales,Billing and Payments,2
+Returns and Exchanges,Billing and Payments,2
+Technical Support,Service Outages and Maintenance,2
+Product Support,Service Outages and Maintenance,2
+General Inquiry,Product Support,1
+Human Resources,Customer Service,1
+Customer Service,Service Outages and Maintenance,1
+Service Outages and Maintenance,Product Support,1

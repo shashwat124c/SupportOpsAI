@@ -1,0 +1,14 @@
+{
+  "total_tickets": 2375,
+  "valid_predictions": 2375,
+  "invalid_predictions": 0,
+  "queue_accuracy_valid": 0.3696842105263158,
+  "queue_macro_f1_valid": 0.1940870528612265,
+  "priority_accuracy_valid": 0.47536842105263155,
+  "priority_macro_f1_valid": 0.3527245040722485,
+  "joint_accuracy_valid": 0.21052631578947367,
+  "json_validity": 1.0,
+  "strict_queue_accuracy": 0.3696842105263158,
+  "strict_priority_accuracy": 0.47536842105263155,
+  "strict_joint_accuracy": 0.21052631578947367
+}
